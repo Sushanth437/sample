@@ -30,3 +30,6 @@
     width:300px;
     position:relative;
 }
+.container{
+    display : flex;
+}
